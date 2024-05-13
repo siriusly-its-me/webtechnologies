@@ -2,37 +2,37 @@
 const tableauxData = [
     {
         titre: 'Avril 2024',
-        imageUrl: './images/fond1.jpeg',
+        imageUrl: '../ressources/images/fond1.jpeg',
         lienVoir: './exemple.html',
         lienSupprimer: '#'
     },
     {
         titre: 'Mai 2024',
-        imageUrl: './images/fond2.jpeg',
+        imageUrl: '../ressources/images/fond2.jpeg',
         lienVoir: './exemple.html',
         lienSupprimer: '#'
     },
     {
         titre: 'Avril 2024',
-        imageUrl: './images/fond1.jpeg',
+        imageUrl: '../ressources/images/fond1.jpeg',
         lienVoir: './exemple.html',
         lienSupprimer: '#'
     },
     {
         titre: 'Mai 2024',
-        imageUrl: './images/fond2.jpeg',
+        imageUrl: '../ressources/images/fond2.jpeg',
         lienVoir: './exemple.html',
         lienSupprimer: '#'
     },
     {
         titre: 'Avril 2024',
-        imageUrl: './images/fond1.jpeg',
+        imageUrl: '../ressources/images/fond1.jpeg',
         lienVoir: './exemple.html',
         lienSupprimer: '#'
     },
     {
         titre: 'Mai 2024',
-        imageUrl: './images/fond2.jpeg',
+        imageUrl: '../ressources/images/fond2.jpeg',
         lienVoir: './exemple.html',
         lienSupprimer: '#'
     }

@@ -21,7 +21,13 @@ This application has been enhanced with four new JavaScript functions to improve
 
     Edit Titles: To modify a table's title, simply click on the title text and make your desired changes.
 
+
+## Google MAP API
+There is now a map available, with pins on certain places (here beaches).
+
 ## Comments
 For now on, all of this is only visual, as there is no database or backend to properly save the changes. 
 
 You may also see that when you add an image on the page, it is downloaded on your computer. I tried to bypass the fact that I did not have any (working) database, to download the pictures directly in the folder : "images" on the project. But in the end, I cannot do it to ensure privacy and user preferences. So I left it to demonstrate how we can use the download option. 
+
+For the Google MAP APi, I plan to implement a dynamic way to add pins on the map, using a DB and JavaScript. But for now on, if you want to add a pin, you have to copy/paste in the HTML code. 
